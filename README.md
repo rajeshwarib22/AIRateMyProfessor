@@ -10,6 +10,11 @@ Daily Updates: Each team member shares updates on what they've worked on, what t
 Feedback: We regularly seek feedback from each other, especially on components where the front and back end intersect.
 
 s1: ceate a react.js app
+
 s2. write code for backend usinf openAI and pinecone
+
 s3. check if the code works
+
 s4. integrate the function in chatbot UI
+
+s5. check if it works porperly by asking question and providing ratemyprofessor links
