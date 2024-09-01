@@ -1,0 +1,333 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Smith",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Engaging lectures and clear explanations. Challenging but fair exams.",
+        "date": "05/15/2024"
+      },
+      {
+        "professor": "Prof. Johnson",
+        "subject": "Literature",
+        "stars": 5,
+        "review": "Passionate about the subject. Inspiring discussions and thoughtful assignments.",
+        "date": "04/28/2024"
+      },
+      {
+        "professor": "Dr. Williams",
+        "subject": "Chemistry",
+        "stars": 3,
+        "review": "Knowledgeable but lectures can be dry. Lab work is interesting.",
+        "date": "06/02/2024"
+      },
+      {
+        "professor": "Prof. Brown",
+        "subject": "History",
+        "stars": 4,
+        "review": "Brings historical events to life. Heavy reading load but worth it.",
+        "date": "05/10/2024"
+      },
+      {
+        "professor": "Dr. Jones",
+        "subject": "Mathematics",
+        "stars": 5,
+        "review": "Excellent at explaining complex concepts. Always available for extra help.",
+        "date": "04/18/2024"
+      },
+      {
+        "professor": "Prof. Garcia",
+        "subject": "Psychology",
+        "stars": 4,
+        "review": "Fascinating course content. Encourages critical thinking.",
+        "date": "05/22/2024"
+      },
+      {
+        "professor": "Dr. Miller",
+        "subject": "Biology",
+        "stars": 3,
+        "review": "Thorough coverage of material but fast-paced. Office hours are helpful.",
+        "date": "06/08/2024"
+      },
+      {
+        "professor": "Prof. Davis",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Clear explanations of economic principles. Relevant real-world examples.",
+        "date": "05/03/2024"
+      },
+      {
+        "professor": "Dr. Rodriguez",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Excellent teacher. Challenging projects that prepare you for the industry.",
+        "date": "04/12/2024"
+      },
+      {
+        "professor": "Prof. Martinez",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Thought-provoking discussions. Encourages diverse perspectives.",
+        "date": "05/30/2024"
+      },
+      {
+        "professor": "Dr. Anderson",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Passionate and knowledgeable. Field trips enhance the learning experience.",
+        "date": "06/14/2024"
+      },
+      {
+        "professor": "Prof. Taylor",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Informative lectures but could be more engaging. Fair grader.",
+        "date": "04/25/2024"
+      },
+      {
+        "professor": "Dr. Thomas",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Engaging course with relevant field work. Passionate about sustainability.",
+        "date": "05/19/2024"
+      },
+      {
+        "professor": "Prof. Moore",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "Challenges students to think critically. Fascinating discussions.",
+        "date": "06/05/2024"
+      },
+      {
+        "professor": "Dr. Jackson",
+        "subject": "Geology",
+        "stars": 4,
+        "review": "Interesting field trips. Lectures can be dry but informative.",
+        "date": "04/30/2024"
+      },
+      {
+        "professor": "Prof. White",
+        "subject": "Marketing",
+        "stars": 3,
+        "review": "Good real-world examples. Could improve on explaining complex concepts.",
+        "date": "05/26/2024"
+      },
+      {
+        "professor": "Dr. Harris",
+        "subject": "Astronomy",
+        "stars": 5,
+        "review": "Passionate and inspiring. Star-gazing sessions are a highlight.",
+        "date": "06/11/2024"
+      },
+      {
+        "professor": "Prof. Martin",
+        "subject": "Linguistics",
+        "stars": 4,
+        "review": "Fascinating subject matter. Challenging but rewarding assignments.",
+        "date": "04/22/2024"
+      },
+      {
+        "professor": "Dr. Thompson",
+        "subject": "Anthropology",
+        "stars": 4,
+        "review": "Engaging lectures with interesting case studies. Fair exams.",
+        "date": "05/17/2024"
+      },
+      {
+        "professor": "Prof. Garcia",
+        "subject": "Music Theory",
+        "stars": 5,
+        "review": "Excellent at breaking down complex concepts. Passionate about music.",
+        "date": "06/03/2024"
+      },
+      {
+        "professor": "Dr. Clark",
+        "subject": "Neuroscience",
+        "stars": 3,
+        "review": "Interesting subject but lectures can be confusing. Extra study required.",
+        "date": "04/16/2024"
+      },
+      {
+        "professor": "Prof. Lewis",
+        "subject": "Statistics",
+        "stars": 4,
+        "review": "Clear explanations of difficult concepts. Helpful practice problems.",
+        "date": "05/23/2024"
+      },
+      {
+        "professor": "Dr. Lee",
+        "subject": "Organic Chemistry",
+        "stars": 3,
+        "review": "Challenging course. Dr. Lee is knowledgeable but moves quickly.",
+        "date": "06/09/2024"
+      },
+      {
+        "professor": "Prof. Walker",
+        "subject": "Film Studies",
+        "stars": 5,
+        "review": "Passionate about cinema. Engaging discussions and analysis.",
+        "date": "04/27/2024"
+      },
+      {
+        "professor": "Dr. Hall",
+        "subject": "Mechanical Engineering",
+        "stars": 4,
+        "review": "Practical approach to complex topics. Helpful lab sessions.",
+        "date": "05/13/2024"
+      },
+      {
+        "professor": "Prof. Allen",
+        "subject": "French Literature",
+        "stars": 5,
+        "review": "Brings classic works to life. Encourages thoughtful analysis.",
+        "date": "06/01/2024"
+      },
+      {
+        "professor": "Dr. Young",
+        "subject": "Genetics",
+        "stars": 4,
+        "review": "Clear explanations of complex topics. Interesting lab work.",
+        "date": "04/20/2024"
+      },
+      {
+        "professor": "Prof. King",
+        "subject": "International Relations",
+        "stars": 3,
+        "review": "Knowledgeable but could improve engagement. Good reading list.",
+        "date": "05/28/2024"
+      },
+      {
+        "professor": "Dr. Wright",
+        "subject": "Quantum Physics",
+        "stars": 5,
+        "review": "Makes complex topics accessible. Passionate and encouraging.",
+        "date": "06/13/2024"
+      },
+      {
+        "professor": "Prof. Scott",
+        "subject": "Business Ethics",
+        "stars": 4,
+        "review": "Thought-provoking case studies. Encourages critical thinking.",
+        "date": "04/24/2024"
+      },
+      {
+        "professor": "Dr. Green",
+        "subject": "Microbiology",
+        "stars": 3,
+        "review": "Informative but fast-paced. Lab work is particularly interesting.",
+        "date": "05/21/2024"
+      },
+      {
+        "professor": "Prof. Adams",
+        "subject": "World Religions",
+        "stars": 5,
+        "review": "Engaging and respectful discussions. Broadens perspectives.",
+        "date": "06/07/2024"
+      },
+      {
+        "professor": "Dr. Nelson",
+        "subject": "Artificial Intelligence",
+        "stars": 4,
+        "review": "Cutting-edge content. Challenging but rewarding projects.",
+        "date": "04/15/2024"
+      },
+      {
+        "professor": "Prof. Baker",
+        "subject": "Classical Studies",
+        "stars": 5,
+        "review": "Brings ancient world to life. Passionate and knowledgeable.",
+        "date": "05/25/2024"
+      },
+      {
+        "professor": "Dr. Rivera",
+        "subject": "Biochemistry",
+        "stars": 3,
+        "review": "Complex material. Dr. Rivera is knowledgeable but lectures can be dense.",
+        "date": "06/10/2024"
+      },
+      {
+        "professor": "Prof. Cooper",
+        "subject": "Urban Planning",
+        "stars": 4,
+        "review": "Interesting projects and field studies. Relevant to current issues.",
+        "date": "04/19/2024"
+      },
+      {
+        "professor": "Dr. Reed",
+        "subject": "Cognitive Psychology",
+        "stars": 5,
+        "review": "Fascinating course content. Dr. Reed is an engaging lecturer.",
+        "date": "05/31/2024"
+      },
+      {
+        "professor": "Prof. Mitchell",
+        "subject": "Public Speaking",
+        "stars": 4,
+        "review": "Practical skills and constructive feedback. Builds confidence.",
+        "date": "06/15/2024"
+      },
+      {
+        "professor": "Dr. Turner",
+        "subject": "Astrophysics",
+        "stars": 3,
+        "review": "Interesting subject but very challenging. Extra help often needed.",
+        "date": "04/26/2024"
+      },
+      {
+        "professor": "Prof. Phillips",
+        "subject": "Gender Studies",
+        "stars": 5,
+        "review": "Thought-provoking discussions. Encourages critical analysis.",
+        "date": "05/14/2024"
+      },
+      {
+        "professor": "Dr. Campbell",
+        "subject": "Robotics",
+        "stars": 4,
+        "review": "Hands-on projects are great. Lectures could be more engaging.",
+        "date": "06/04/2024"
+      },
+      {
+        "professor": "Prof. Parker",
+        "subject": "European History",
+        "stars": 5,
+        "review": "Engaging storyteller. Makes historical events come alive.",
+        "date": "04/17/2024"
+      },
+      {
+        "professor": "Dr. Evans",
+        "subject": "Thermodynamics",
+        "stars": 3,
+        "review": "Complex subject. Dr. Evans is knowledgeable but can be hard to follow.",
+        "date": "05/27/2024"
+      },
+      {
+        "professor": "Prof. Morgan",
+        "subject": "Creative Writing",
+        "stars": 5,
+        "review": "Inspiring and supportive. Pushes students to improve their craft.",
+        "date": "06/12/2024"
+      },
+      {
+        "professor": "Dr. Kelly",
+        "subject": "Immunology",
+        "stars": 4,
+        "review": "Fascinating subject matter. Dr. Kelly explains complex concepts well.",
+        "date": "04/23/2024"
+      },
+      {
+        "professor": "Prof. Murphy",
+        "subject": "Game Theory",
+        "stars": 4,
+        "review": "Interesting applications to real-world scenarios. Challenging problem sets.",
+        "date": "05/18/2024"
+      },
+      {
+        "professor": "Dr. Rogers",
+        "subject": "Marine Biology",
+        "stars": 5,
+        "review": "Passionate about ocean life. Field trips are a highlight.",
+        "date": "06/06/2024"
+      }
+    ]
+  }
